@@ -33,6 +33,8 @@ CA I-505 1A I-5
 CA I-605 9B 14A
 CA I-605 19 25
 
+WA I-705 I-5 StaWay
+
 ########
 # I-10 #
 ########
@@ -259,7 +261,7 @@ AK I-A1 5thAve_W AK3_N
 #########
 # I-AK3 #
 #########
-AK I-A3 AK9 OldSewHwy_N
+AK I-A3 AK9 5thAve
 
 #########
 # I-AK4 #
@@ -337,6 +339,7 @@ CO US24 CO91 CO300
 # US26 #
 ########
 OR US26 64 74
+OR US26 BurRd OR173
 OR US26 US97_S OR35
 ID US26 I-15(93) I-15(116)
 ID US26 ID43 ID31
@@ -514,6 +517,8 @@ NV US395 CA/NV NV756
 #########################
 # Alaska State Highways #
 #########################
+AK AK7Jun MainSt MenLpRd_N
+
 AK AK9 RaiAve AK1
 
 ##########################
@@ -850,6 +855,8 @@ OR OR62 OR234 US97
 
 OR OR138 SusCreRd CraLakeHwy
 
+OR OR173 US26 TimLodge
+
 OR OR217 US26 8
 
 OR OR234 OR99_E OR62
@@ -907,6 +914,8 @@ WA WA3 WA16 WA104
 
 WA WA4 US101 WA401
 
+WA WA7 WA702 WA704
+
 WA WA7 US12 AldCut
 
 WA WA8 US12 US101
@@ -923,7 +932,7 @@ WA WA18 I-5 WA164
 
 WA WA19 WA104 WA20
 
-WA WA20 WA525 WA9_N
+WA WA20 WA525 CapeHornRd
 WA WA20 WA530 NFD600_W
 
 WA WA20Por WA19 PorCouFry
@@ -946,6 +955,8 @@ WA WA141 WA141Alt GulRd
 WA WA141AltUnd WA14 WA141
 
 WA WA161 WasAve WA512/167
+
+WA WA163 WA16 ParkWay
 
 WA WA164 WA18 WA410
 
@@ -996,6 +1007,8 @@ WA WA544 PoleRd WA9
 
 WA WA599 I-5 WA99
 
+WA WA704 SpaLpRd WA7
+
 WA WA706 WA7 MouRaiNP
 
 WA WA903 WA970 OakAve_S
@@ -1022,6 +1035,8 @@ WY WY450 US16 WY59
 ##########################
 # NATIONAL PARK HIGHWAYS #
 ##########################
+AK ParkRd AK3 EieVisCen
+
 CA BadRd CA190 Bad
 
 CA BigOakRd CA120 ElPorRd
